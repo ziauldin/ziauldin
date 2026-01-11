@@ -206,7 +206,7 @@ Enterprise business intelligence solution featuring:
 ### 💡 Have an exciting project?
 I'm always open to discussing **AI/ML projects, research collaborations, or mentorship opportunities**.
 
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendly.com/ziauddin)
+[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](mailto:ziadin.544@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ziauddin)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ziauddin)
 
