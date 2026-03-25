@@ -78,53 +78,50 @@ I'm a passionate **AI Engineer and Data Analyst** based in Islamabad, Pakistan, 
 
 ---
 
-## 🏆 Featured Projects
+## 📁 My Repositories
 
-### 🤖 [AUTO-MATE: AI Workshop Assistant](https://github.com/your-repo-link)
-<div align="center">
-  
-![AUTO-MATE](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-Gemma--2-yellow?style=flat-square)
-![CV](https://img.shields.io/badge/CV-YOLOv8-red?style=flat-square)
+### 🤖 AI & Chatbots
 
-</div>
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [AI_Chatbot](https://github.com/ziauldin/AI_Chatbot) | Python-based AI Chatbot | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [my-chatbot](https://github.com/ziauldin/my-chatbot) | Personal chatbot project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [news-chatbot](https://github.com/ziauldin/news-chatbot) | News-focused chatbot assistant | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [catalant-monitor-extend](https://github.com/ziauldin/catalant-monitor-extend) | Monitoring extension tool | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-An advanced diagnostic system combining **Gemma-2 LLM** with **YOLOv8** for comprehensive vehicle analysis. Features include:
-- 🗣️ **Multi-modal input** (text + images)
-- 🔧 **Real-time repair cost estimation**
-- 📱 **FastAPI RESTful backend**
-- 📊 **Interactive dashboard**
+### 🧠 Machine Learning & Predictive Modeling
 
-### 🌍 [Geospatial Investment Analyzer](https://github.com/your-repo-link)
-<div align="center">
-  
-![Geospatial](https://img.shields.io/badge/Scope-100+_Cities-orange?style=flat-square)
-![Data](https://img.shields.io/badge/Data-Scraping-green?style=flat-square)
-![Viz](https://img.shields.io/badge/Viz-Folium/Plotly-blue?style=flat-square)
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [crop-production-forecasting](https://github.com/ziauldin/crop-production-forecasting) | Forecast crop production for the next 3 years using predictive models for agricultural planning | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [study-hours-predictor](https://github.com/ziauldin/study-hours-predictor) | Predict study hours using ML regression | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [Iris-Flower-Classification-Decision-Tree](https://github.com/ziauldin/Iris-Flower-Classification-Decision-Tree) | Iris flower classification using Decision Tree | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [iris-kmeans-analysis](https://github.com/ziauldin/iris-kmeans-analysis) | K-Means clustering analysis on the Iris dataset | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-</div>
+### 🔍 Exploratory Data Analysis
 
-Comprehensive market analysis tool for identifying high-potential investment locations:
-- 🗺️ **Interactive Folium heatmaps**
-- 📈 **Revenue & occupancy analytics**
-- 🔍 **Competitive landscape analysis**
-- 🎯 **Investment scoring system**
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [exploratory-data-analysis-superstore](https://github.com/ziauldin/exploratory-data-analysis-superstore) | EDA on the Superstore retail dataset | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [global-terrorism-eda](https://github.com/ziauldin/global-terrorism-eda) | Exploratory analysis of the Global Terrorism Database | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [IPL-Exploratory-Analysis](https://github.com/ziauldin/IPL-Exploratory-Analysis) | In-depth EDA of IPL cricket data | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-### 💊 [Hayat Pharma BI Suite](https://github.com/your-repo-link)
-<div align="center">
-  
-![BI](https://img.shields.io/badge/Platform-Power_BI-yellow?style=flat-square)
-![ML](https://img.shields.io/badge/ML-Predictive_Models-purple?style=flat-square)
-![Impact](https://img.shields.io/badge/Impact-Profit_+25%25-success?style=flat-square)
+### 📊 Business Intelligence Dashboards
 
-</div>
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [99Bikers_Dashboard_PowerBI](https://github.com/ziauldin/99Bikers_Dashboard_PowerBI) | Power BI dashboard for 99Bikers sales & analytics | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| [Microsoft_Dashboard](https://github.com/ziauldin/Microsoft_Dashboard) | Microsoft business metrics dashboard | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| [Honda_Dashboard](https://github.com/ziauldin/Honda_Dashboard) | Honda sales & performance dashboard | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| [Unilever_Dashboard](https://github.com/ziauldin/Unilever_Dashboard) | Unilever business intelligence dashboard | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
-Enterprise business intelligence solution featuring:
-- 📊 **Real-time sales dashboards**
-- 🤖 **Customer churn prediction**
-- 💰 **Profit margin optimization**
-- 📱 **Mobile-responsive reports**
+### 🌍 Market Analysis & Web Scraping
+
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [-leRank-Market-Insights-for-le-de-France](https://github.com/ziauldin/-leRank-Market-Insights-for-le-de-France) | Market insights & rankings for Île-de-France region | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [Trendly-final](https://github.com/ziauldin/Trendly-final) | Trend analysis and market insights platform | — |
+| [pakwheel_scraper](https://github.com/ziauldin/pakwheel_scraper) | Web scraper for PakWheels automotive listings | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
