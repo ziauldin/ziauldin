@@ -125,7 +125,7 @@ Developed and deployed a highly responsive background removal tool built entirel
 - Engineer predictive models improving marketing ROI by 20%.
 
 ### ⚙️ **Automation Trainee**
-**Pakistan Aeronautical Complex (PAF)** | *Islamabad* | *Jul 2025 - Sep 2025*
+**Pakistan Air Force (PAF)** | *Islamabad* | *Jul 2025 - Sep 2025*
 - Automated software deployments and setups, eliminating extensive manual workflows.
 
 ---
