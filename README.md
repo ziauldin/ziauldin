@@ -22,14 +22,26 @@
 
 </div>
 
-I'm a **Senior AI Engineer** based in Islamabad, Pakistan, specializing in data-intensive systems, custom ETL pipelines, and production-grade AI agents. I thrive in fast-paced environments, taking full ownership of end-to-end features—from mapping complex API webhooks to deploying robust full-stack solutions. 
+I'm a **Senior AI Engineer** based in Islamabad, Pakistan, specializing in data-intensive systems, custom ETL pipelines, and production-grade AI agents. With a strong background in Business Analytics, I bridge the gap between vague stakeholder requirements and strict technical execution. I thrive in fast-paced startup environments, taking full ownership of end-to-end features—from mapping complex API webhooks to deploying robust full-stack solutions. 
 
 ### 🎯 Core Competencies
-- 🤖 **AI Agent Deployment & Orchestration (n8n, LangChain)**
-- 📊 **Dynamic RAG & Database Caching**
-- 🚀 **Web Scraping & Extraction Pipelines (Playwright, ParseHub)**
-- 👨‍🏫 **Technical Architecture & Stakeholder Communication**
-- 🔧 **Full-Stack Application Design (Next.js, Flask, FastAPI)**
+- 🤖 **AI Agent Deployment & Orchestration (n8n, LangChain, Groq)**
+- 📊 **Dynamic RAG, Vector Stores (Qdrant) & Database Caching**
+- 🚀 **Web Scraping & Extraction Pipelines (Playwright, ParseHub, Selenium)**
+- 👨‍🏫 **Technical Architecture, Requirements Gathering & Stakeholder Communication**
+- 🔧 **Full-Stack Application Design (Next.js, Flask, FastAPI, Gradio)**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Zia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziauldin&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziauldin&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 
@@ -54,52 +66,35 @@ I'm a **Senior AI Engineer** based in Islamabad, Pakistan, specializing in data-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
+### 📈 **Analytics & Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ---
 
 ## 🏆 Featured Projects & Architecture
 
 ### 🤖 Paramount Intelligence Monitoring System (PIMS)
-<div align="center">
-  
-![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Python_|_Multi--Agent-blue?style=flat-square)
-
-</div>
-
 Engineered an enterprise-level automation system designed to monitor API health, track multi-agent workflow statuses, and ensure continuous operational uptime across infrastructure, entirely replacing manual IT oversight.
 
 ### 🚗 AUTO-GENIUS: AI Workshop Chatbot
-<div align="center">
-  
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-FastAPI_|_YOLOv5_|_Phi--2-yellow?style=flat-square)
-
-</div>
-
 An advanced diagnostic system that interprets plain-English vehicle issues. 
-- 🗣️ **Multi-modal inputs:** YOLOv5 for damage photos, Librosa for engine sounds.
-- 💰 **Dynamic Quoting:** Pulls part pricing from a PostgreSQL database of PakWheels data.
-- 📱 **Integration:** Seamless WhatsApp booking via Twilio.
+- **Multi-modal inputs:** YOLOv5 for damage photos, Librosa for engine sounds.
+- **Dynamic Quoting:** Pulls part pricing from a PostgreSQL database of PakWheels data.
+- **Integration:** Seamless WhatsApp booking via Twilio.
 
 ### 🎧 Freshdesk AI Support Copilot
-<div align="center">
-  
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Qdrant_|_Postgres-purple?style=flat-square)
-
-</div>
-
 Architected a production-grade, human-in-the-loop AI agent using dynamic RAG (Qdrant) and Postgres caching, mapping exact support agent requirements into developer-ready API structures.
 
-### 🖼️ AI.Erase
-<div align="center">
-  
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Stack](https://img.shields.io/badge/Deployment-Netlify-blue?style=flat-square)
+### 🌍 Interactive Geospatial Market Ranking (Île-de-France)
+Built a custom Python scraper to extract market data and processed over 100 cities using a custom scoring algorithm. Visualized results with an interactive map built in Folium and Leaflet.js, improving client investment decision-making by 40%.
 
-</div>
+### 🛒 Full-Stack E-Commerce NLP Chatbot
+Engineered an AI e-commerce chatbot system utilizing Next.js, Node.js, Python NLP modeling, and a MongoDB database, utilizing UML diagrams to map out the entire product search workflow.
 
-Developed and deployed a highly responsive background removal tool built entirely with modern frontend web technologies.
+### 🦷 Dental Clinic POS System
+Developed a secure, full-stack Point of Sale system tailored for clinical environments, built using Flask and PostgreSQL.
 
 ---
 
@@ -125,21 +120,33 @@ Developed and deployed a highly responsive background removal tool built entirel
 - Engineer predictive models improving marketing ROI by 20%.
 
 ### ⚙️ **Automation Trainee**
-**Pakistan Air Force (PAF)** | *Islamabad* | *Jul 2025 - Sep 2025*
+**Pakistan Aeronautical Complex (PAF)** | *Islamabad* | *Jul 2025 - Sep 2025*
 - Automated software deployments and setups, eliminating extensive manual workflows.
 
+### 👨‍🏫 **Teaching Assistant**
+**International Islamic University (IIUI)** | *Islamabad* | *Sep 2024 - Feb 2025*
+- Assisted in teaching core data technologies including Python, SQL, and Power BI to undergraduate students.
+
 ---
 
-## 📚 Education
+## 📚 Education & Awards
+
 - **BS in Business Analytics** | International Islamic University, Islamabad (IIUI) — *Graduated with Distinction*
+- 🏆 **Prime Minister Youth Laptop Program Awardee 2024** | Issued by Higher Education Commission, Govt of Pakistan for academic excellence.
+
+### 📜 **Certifications**
+- Machine Learning by Andrew NG (Coursera)
+- GeoSpatial Analysis (Kaggle)
+- Data Analytics Essentials (IBM)
+- Google Data Analytics (Coursera)
 
 ---
 
-## ✨ Interests & Beyond the Code
+## ✨ Beyond the Code
 
 <div align="center">
 
-📈 **Capital & Stock Market Investing** | ☕ **Outdoor Cafes in Islamabad** | 🚗 **Travelling (Khushab, Punjab)**
+📈 **Capital Market Investing** | ☕ **Exploring Islamabad Cafes** | 🚗 **Travelling** 
 
 </div>
 
