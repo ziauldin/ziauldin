@@ -2,9 +2,10 @@
 
 <div align="center">
 
-![Profile Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&h=400&fit=crop&crop=entropy)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Zia%20Ul%20Din&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn)
 
-# 👨‍💻 Zia Ul Din
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9AB7&center=true&vCenter=true&width=600&lines=Next.js+%7C+React+%7C+Node.js+%7C+Python;AI+Agents+%26+LLM+Integrations;n8n+%7C+Make.com+%7C+Zapier+Automation)](https://github.com/ziauldin)
+
 ### *Full Stack Development • AI Agents • Workflow Automation • Data Engineering*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zia-ul-din)
