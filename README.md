@@ -1,42 +1,35 @@
-# 🚀 Senior AI Engineer | Architecting Intelligent Systems & Workflows
+# AI Engineer & Full Stack Developer
 
 <div align="center">
-  
+
 ![Profile Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&h=400&fit=crop&crop=entropy)
 
 # 👨‍💻 Zia Ul Din
-### *AI Architecture • Multi-Agent Orchestration • Data Engineering • Automation*
+### *Full Stack Development • AI Agents • Workflow Automation • Data Engineering*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zia-ul-din)
 [![Email](https://img.shields.io/badge/-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadin.544@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-FF6B6B?style=for-the-badge&logo=webflow&logoColor=white)](https://sites.google.com/view/ziauldin/)
-[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziauldin)
 
 </div>
 
 ## 🌟 About Me
 
-<div align="center">
+I'm a full stack developer and AI engineer based in Islamabad, Pakistan. I build web applications with React, Next.js, Node.js, and Python, and I connect them to LLMs, AI agents, and workflow automation. I have a background in business intelligence, so I'm comfortable turning loose business requirements into working features, and I take features from the API and database through to the UI and deployment.
 
-*"Replacing manual operational bottlenecks with scalable, multi-agent AI infrastructure."*
-
-</div>
-
-I'm a **Senior AI Engineer** based in Islamabad, Pakistan, specializing in data-intensive systems, custom ETL pipelines, and production-grade AI agents. With a strong background in Business Analytics, I bridge the gap between vague stakeholder requirements and strict technical execution. I thrive in fast-paced startup environments, taking full ownership of end-to-end features—from mapping complex API webhooks to deploying robust full-stack solutions. 
-
-### 🎯 Core Competencies
-- 🤖 **AI Agent Deployment & Orchestration (n8n, LangChain, Groq)**
-- 📊 **Dynamic RAG, Vector Stores (Qdrant) & Database Caching**
-- 🚀 **Web Scraping & Extraction Pipelines (Playwright, ParseHub, Selenium)**
-- 👨‍🏫 **Technical Architecture, Requirements Gathering & Stakeholder Communication**
-- 🔧 **Full-Stack Application Design (Next.js, Flask, FastAPI, Gradio)**
+### 🎯 What I Work On
+- 🌐 **Full stack web apps** with Next.js, React, Node.js, Express, FastAPI, and Flask
+- 🤖 **AI agents and LLM integrations** with n8n, LangChain, OpenAI, and Groq
+- 📊 **RAG and vector search** with Qdrant and Postgres caching
+- 🔁 **Workflow automation** with n8n, Make.com, Zapier, and Airtable
+- 🕸️ **Scraping and data pipelines** with Playwright, Selenium, ParseHub, and Snowflake
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 ![Zia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziauldin&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziauldin&layout=compact&theme=radical&hide_border=true&langs_count=6)
@@ -45,116 +38,123 @@ I'm a **Senior AI Engineer** based in Islamabad, Pakistan, specializing in data-
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
-### 🤖 **AI & Automation**
+### 🌐 **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### ⚙️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-FF6F00?style=flat-square&logo=n8n&logoColor=white)
-
-### 👁️ **Computer Vision & Audio**
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-00A86B?style=flat-square&logoColor=white)
-
-### 💾 **Databases, Backend & Web**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### 📈 **Analytics & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+### 💾 **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+
+### 🤖 **AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+
+### 📈 **Data & Tools**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects & Architecture
+## 🏆 Featured Projects
 
-### 🤖 Paramount Intelligence Monitoring System (PIMS)
-Engineered an enterprise-level automation system designed to monitor API health, track multi-agent workflow statuses, and ensure continuous operational uptime across infrastructure, entirely replacing manual IT oversight.
+### 🛡️ [WellPredict](https://wellpredict.co.uk/)
+Built the company website and the frontend and backend of a privacy-first workforce risk platform, including the Governance Evidence Engine dashboard in Next.js, Tailwind CSS, and Framer Motion. Built API webhooks that connect the risk algorithms, with data anonymization to meet UK employment law.
 
-### 🚗 AUTO-GENIUS: AI Workshop Chatbot
-An advanced diagnostic system that interprets plain-English vehicle issues. 
-- **Multi-modal inputs:** YOLOv5 for damage photos, Librosa for engine sounds.
-- **Dynamic Quoting:** Pulls part pricing from a PostgreSQL database of PakWheels data.
-- **Integration:** Seamless WhatsApp booking via Twilio.
+### 🏫 [Ash-Shajrah Learning Hub](https://ashshajrah.com/)
+School website and learning management system with six user roles (Super Admin, Admin, Coordinator, Teacher, Parent, Student). Built with Next.js and Prisma on Supabase Postgres, with a React Native (Expo) mobile app and the backend on Railway.
+
+### 🧑‍💼 AI Hiring & Candidate Assessment System
+LLMs score candidate tests and written answers, and n8n and Airtable workflows handle interview scheduling, candidate emails, and onboarding across Ashby ATS, TestGorilla, Gmail, and Google Calendar. Cut screening time by about 80%.
 
 ### 🎧 Freshdesk AI Support Copilot
-Architected a production-grade, human-in-the-loop AI agent using dynamic RAG (Qdrant) and Postgres caching, mapping exact support agent requirements into developer-ready API structures.
+Human-in-the-loop AI support agent using RAG with Qdrant and Postgres caching, built from the support team's requirements.
 
-### 🌍 Interactive Geospatial Market Ranking (Île-de-France)
-Built a custom Python scraper to extract market data and processed over 100 cities using a custom scoring algorithm. Visualized results with an interactive map built in Folium and Leaflet.js, improving client investment decision-making by 40%.
+### 🕸️ Enterprise Scraping & Analytics Platform
+Next.js frontend and Flask backend that automates large-scale data extraction, with checkpoint recovery, dynamic pagination, and Snowflake storage.
 
-### 🛒 Full-Stack E-Commerce NLP Chatbot
-Engineered an AI e-commerce chatbot system utilizing Next.js, Node.js, Python NLP modeling, and a MongoDB database, utilizing UML diagrams to map out the entire product search workflow.
+### 🚗 AUTO-MATE: AI Workshop Chatbot
+Diagnoses vehicle issues from plain-English descriptions and photos, then builds repair quotes from a PostgreSQL parts database. Built with FastAPI, Gemma-2, and YOLO, with WhatsApp booking through Twilio. Raised booking conversions by 25%.
+
+### 🛒 Full Stack E-Commerce NLP Chatbot
+E-commerce chatbot built with Next.js, Node.js, MongoDB, and Python NLP for product search.
 
 ### 🦷 Dental Clinic POS System
-Developed a secure, full-stack Point of Sale system tailored for clinical environments, built using Flask and PostgreSQL.
+Point of sale system for dental clinics, built with Flask and PostgreSQL.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 🚀 **Senior AI Engineer**
-**Paramount Intelligence PK** | *Remote* | *Jan 2026 - Present*
-- Build and deploy production-grade AI agents and intelligent workflows across the stack.
-- Manage backend services, APIs, and complex Python ETL data pipelines for scalable operations.
+### 🌐 **Full Stack Developer**
+**WellPredict** | *Remote* | *Feb 2026 - Present*
+- Build the company website and the frontend and backend of its workforce risk platform.
+- Built API webhooks, data anonymization, and production deployments.
 
-### 🧠 **Head of Engineering & Lead Architect**
-**WellPredict** | *Remote* | *Feb 2026 - May 2026*
-- Led the technical execution of a privacy-first workforce risk intelligence platform.
-- Architected real-time backend services strictly adhering to data anonymization requirements.
+### 🤖 **AI & Automation Expert**
+**Paramount Intelligence** | *Islamabad* | *Jan 2026 - Present*
+- Build and deploy LLM applications, AI agents, and workflow automations for clients.
+- Develop and maintain integrations and dashboards across several business streams.
+
+### 👨‍💻 **Developer & Data Analyst (Freelance)**
+**Upwork** | *Remote* | *May 2023 - Present*
+- Built and deployed chatbot web apps with FastAPI and Gradio, reducing client support time by 30%.
+- Built predictive models that improved marketing ROI by 20% and reduced churn by 17%.
 
 ### 🎓 **Data Science Trainer**
-**Future Connects UK** | *Remote* | *Sep 2025 - Dec 2025*
-- Delivered technical training on advanced analytics and BI tools to UK professionals.
-
-### 👨‍💻 **Data Analyst & AI Developer (Freelance)**
-**Upwork** | *Remote* | *Mar 2024 - Present*
-- Deploy LLM-powered chatbots (FastAPI/Gradio), reducing client support time by 30%.
-- Engineer predictive models improving marketing ROI by 20%.
+**Future Connect Training & Recruitment Ltd** | *Remote, UK* | *Sep 2025 - Jan 2026*
+- Trained and mentored UK-based learners and guided them through projects including chatbots and data pipelines.
 
 ### ⚙️ **Automation Trainee**
-**Pakistan Aeronautical Complex (PAF)** | *Islamabad* | *Jul 2025 - Sep 2025*
-- Automated software deployments and setups, eliminating extensive manual workflows.
+**PAF** | *Islamabad* | *Jul 2025 - Sep 2025*
+- Automated deployment of new software systems, reducing manual setup and configuration.
 
 ### 👨‍🏫 **Teaching Assistant**
-**International Islamic University (IIUI)** | *Islamabad* | *Sep 2024 - Feb 2025*
-- Assisted in teaching core data technologies including Python, SQL, and Power BI to undergraduate students.
+**International Islamic University Islamabad (IIUI)** | *Islamabad* | *Sep 2024 - Feb 2025*
+- Assisted in teaching Python, SQL, and Power BI to undergraduates.
 
 ---
 
 ## 📚 Education & Awards
 
-- **BS in Business Analytics** | International Islamic University, Islamabad (IIUI) — *Graduated with Distinction*
-- 🏆 **Prime Minister Youth Laptop Program Awardee 2024** | Issued by Higher Education Commission, Govt of Pakistan for academic excellence.
+- **Bachelor of Business Intelligence** | International Islamic University Islamabad (IIUI) | CGPA 3.68/4.00
+- 🏆 **Prime Minister Youth Laptop Program Awardee 2024** | Higher Education Commission, Government of Pakistan
 
-### 📜 **Certifications**
-- Machine Learning by Andrew NG (Coursera)
-- GeoSpatial Analysis (Kaggle)
-- Data Analytics Essentials (IBM)
+### 📜 Certifications
+- Huawei Certified Cloud Developer
+- Machine Learning by Andrew Ng (Coursera)
 - Google Data Analytics (Coursera)
-
----
-
-## ✨ Beyond the Code
-
-<div align="center">
-
-📈 **Capital Market Investing** | ☕ **Exploring Islamabad Cafes** | 🚗 **Travelling** 
-
-</div>
+- Data Analytics Essentials (IBM)
 
 ---
 
 <div align="center">
 
-**"The best way to predict the future is to create it." - Alan Kay**
+📈 **Capital market investing** | ☕ **Islamabad cafes** | 🚗 **Travelling**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ziauldin&color=blueviolet&style=flat-square&label=Profile+Views)
 
