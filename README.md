@@ -98,8 +98,8 @@ Human-in-the-loop AI support agent using RAG with Qdrant and Postgres caching, b
 ### 🕸️ Enterprise Scraping & Analytics Platform
 Next.js frontend and Flask backend that automates large-scale data extraction, with checkpoint recovery, dynamic pagination, and Snowflake storage.
 
-### 🚗 AUTO-MATE: AI Workshop Chatbot
-Diagnoses vehicle issues from plain-English descriptions and photos, then builds repair quotes from a PostgreSQL parts database. Built with FastAPI, Gemma-2, and YOLO, with WhatsApp booking through Twilio. Raised booking conversions by 25%.
+### 🚗 [AUTO-MATE: AI Workshop Assistant](https://github.com/ziauldin/auto-mate)
+Final-year project at IIUI. Diagnoses vehicle faults from text or voice (Groq, Llama 3, Distil-Whisper), photos of damage (YOLOv8), and engine or brake sounds (Librosa), then estimates repair costs with a TF-IDF recommender and books appointments on WhatsApp through Twilio. Cut diagnosis time by 70% and raised booking conversions by 25%.
 
 ### 🛒 Full Stack E-Commerce NLP Chatbot
 E-commerce chatbot built with Next.js, Node.js, MongoDB, and Python NLP for product search.
